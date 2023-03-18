@@ -27,7 +27,21 @@
 |Router, AP|mikrotik streetlight|Let's cry together. These are street lights that are also access points ...|
 |Router|"ActiontecBHR"|Actiontech routers|passwords for different modles are here: https://portforward.com/actiontec/passwords/|
 |Error Codes|http.title:"401 Unauthorized" |The server generating a 401 response MUST send a WWW-Authenticate header field containing at least one challenge applicable to the target resource. I normally combine this with negation to remove unwanted hits, use ports or county codes. The point to this search is authenication was POSSIBLE but didn't happen because the wrong thing was sent.|https://kinsta.com/knowledgebase/401-error/
-|Camera|"TVIP51500"|CCTV camera|https://www.usermanuals.au/abus/tvip51500/manual|
+|Cobalt Strike|ssl.cert.serial:146473198|Default SSL cert||
+|Cobalt Strike|hash:-2007783223 port:”50050″|Hash for Cobalt Strike and its port||
+|Cobalt Strike|product:”Cobalt Strike Beacon”||Just by name, because ...|https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence|
+|MetaSploit|ssl:"MetasploitSelfSignedCA"||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|Covenant|ssl:”Covenant” http.component:”Blazor”||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|Mythic|ssl:Mythic port:7443||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|Brute Ratel C4|http.html_hash:-1957161625|https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|Deimos|http.html_hash:-14029177||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|PostC2|ssl:"P18055077"||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|Silver C2|ssl.jarm:3fd21b20d00000021c43d21b21b43d41226dd5dfc615dd4a96265559485910 "HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0"||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|Sliver C2|ssl:multiplayer ssl:operators ssl.jarm:"00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01"||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+|GoPhish Servers|ssl.jarm:"28d28d28d00028d00041d28d28d41dd279b0cf765af27fa62e66d7c8281124"|Had to make some adjustments for shodan|https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
+
+
+|Camera|"TVIP51500"|CCTV camera|https://www.usermanuals.au/abus/tvip51500/manual||
 |Camera|"everfocus"|IP Camera|https://www.everfocus.com/|
 
 
