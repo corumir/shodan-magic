@@ -39,8 +39,6 @@
 |Silver C2|ssl.jarm:3fd21b20d00000021c43d21b21b43d41226dd5dfc615dd4a96265559485910 "HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0"||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
 |Sliver C2|ssl:multiplayer ssl:operators ssl.jarm:"00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01"||https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
 |GoPhish Servers|ssl.jarm:"28d28d28d00028d00041d28d28d41dd279b0cf765af27fa62e66d7c8281124"|Had to make some adjustments for shodan|https://medium.com/@michaelkoczwara/hunting-c2-with-shodan-223ca250d06f|
-
-
 |Camera|"TVIP51500"|CCTV camera|https://www.usermanuals.au/abus/tvip51500/manual||
 |Camera|"everfocus"|IP Camera|https://www.everfocus.com/|
 
