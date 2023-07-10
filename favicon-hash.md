@@ -250,7 +250,6 @@
 |1703788174 | D-Link (router/network) |  |  | |
 |225632504 | Rocket Chat |  |  | |
 |-1702393021 | mofinetwork | MOFI4500 – LuCI |  | |
-|
 | Zabbix | Zabbix server: Zabbix |  | |
 |547474373 | TOTOLINK (network) |  |  | |
 |-374235895 | Ossia (Provision SR) | Webcam/IP Camera |  |  | |
