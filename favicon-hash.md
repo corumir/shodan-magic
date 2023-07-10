@@ -37,6 +37,7 @@
 |2110041688 | ระบบจองห้องประชุม |  |  | |
 |-493051473 | hxxp://www[.k2ie.net | Reflector Dashboard |  | |
 |1249285083 | Ubiquiti Aircube | airCube |  | |
+|1020814938 | Ubiquiti Air Router||||
 |-1379982221 | Atlassian – Bamboo |  |  | |
 |420473080 | Exostar – Managed Access Gateway | MAG Dashboard Login |  | |
 |-1642532491 | Atlassian – Confluence |  |  | |
