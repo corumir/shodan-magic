@@ -2,6 +2,8 @@
 
 |Category|Query|Explanation|More|
 |----|----|----|----|
+|MiddleWare|http.title:"Strider: Brilliant Continuous Deployment"|strider CD|https://strider-cd.github.io/|
+|MiddleWare|http.favicon.hash:115295460|strider CD|https://strider-cd.github.io/|
 |RDP|"\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"|Windows RDP. Usually protected by a 2nd login||
 |ICS|"Server: gSOAP/2.8" "Content-Length: 583"|Charging stations for EV||
 |ICS|"HID VertX" port:4070|networked access controller with a multi-door access control panel|https://www.hidglobal.com/products/v10000|
