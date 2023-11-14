@@ -42,6 +42,7 @@
 |Plesk Server Default Page|HTTP/1.1 200 OK Accept-Ranges: bytes Content-Length: 5664|Find default page for Plesk Servers||
 |Camera|"TVIP51500"|CCTV camera|https://www.usermanuals.au/abus/tvip51500/manual||
 |Camera|"everfocus"|IP Camera|https://www.everfocus.com/|
+|Security|http.title:"Forcepoint Appliance"|Force Point security appliance||
 
 
 
